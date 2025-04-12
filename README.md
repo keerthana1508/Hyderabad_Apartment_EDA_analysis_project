@@ -1,1 +1,1 @@
-# Hyderabad_Apartment_EDA_analysis_project
+# Hyderabad_Apartment_EDA_project
