@@ -1,8 +1,8 @@
 # 🏠 Apartment Data Analysis – EDA Project
 
 ## 📌 Project Objective
-The goal of this project is to perform exploratory data analysis (EDA) on apartment listings to understand the factors that influence apartment prices — such as location, size, and number of bedrooms (BHK).  
-This analysis helps identify trends and patterns useful for real estate decision-making.
+The real estate market in Hyderabad is growing rapidly, with increasing demand for both rental and owned residential apartments. However, due to the vast variety in apartment types, localities, and amenities, buyers and renters often struggle to understand the market trends and make informed decisions.
+To analyze and predict apartment prices in Hyderabad based on various factors such as location, square footage, number of bedrooms (BHK), furnishing type, and amenities. The goal is to extract insights and help users—such as property buyers, sellers, and investors—make data-driven decisions.
 
 ---
 
