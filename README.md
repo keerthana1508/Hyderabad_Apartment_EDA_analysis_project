@@ -1,37 +1,44 @@
-# 🏠Hyderabad Apartment Data Analysis - project 1
-📌 Project Objective
-The goal of this project is to perform exploratory data analysis (EDA) on apartment listings to understand the factors that influence apartment prices — such as location, size, and number of bedrooms (BHK). This analysis helps identify trends and patterns useful for real estate decision-making.
+# 🏠 Apartment Data Analysis – EDA Project
 
-📂 Dataset
-The dataset includes apartment details like Location, Price, Area, BHK, Type, and more.
+## 📌 Project Objective
+The goal of this project is to perform exploratory data analysis (EDA) on apartment listings to understand the factors that influence apartment prices — such as location, size, and number of bedrooms (BHK).  
+This analysis helps identify trends and patterns useful for real estate decision-making.
 
-It was collected from a real estate listing platform (or you can mention the source if public).
+---
 
-🛠️ Tools & Libraries Used
-Python (Jupyter Notebook)
+## 📂 Dataset
+The dataset includes apartment details like `Location`, `Price`, `Area`, `BHK`, `Type`, and more.
 
-Libraries:
-pandas, numpy, matplotlib, seaborn
+*It was collected from a real estate listing platform.*  
+(*You can add the exact source if it's publicly available.*)
 
-📊 Key Analysis Performed
-Data Cleaning: handled missing values, corrected data types, removed duplicates
+---
 
-Distribution of apartment prices and areas
+## 🛠️ Tools & Libraries Used
+- Python (Jupyter Notebook)
 
-Relationship between BHK and price
+**Libraries:**
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
 
-Price comparison by location
+---
 
-Visualization of categorical variables
+## 📊 Key Analysis Performed
+- ✅ Data Cleaning: handled missing values, corrected data types, removed duplicates
+- ✅ Distribution of apartment prices and areas
+- ✅ Relationship between BHK and price
+- ✅ Price comparison by location
+- ✅ Visualization of categorical variables
+- ✅ Outlier detection and summary statistics
 
-Outlier detection and summary statistics
+---
 
-🔍 Key Insights
-Prices vary significantly across locations — some areas have much higher average prices.
+## 🔍 Key Insights
+- 📍 Prices vary significantly across locations — some areas have much higher average prices.
+- 🏠 2BHK and 3BHK apartments are the most common.
+- 📐 Larger area does not always mean higher price — location matters more.
+- 📉 Visualizations revealed skewed price distributions and a few extreme outliers.
 
-2BHK and 3BHK apartments are the most common.
-
-Larger area does not always mean higher price — location matters more.
-
-Visualizations revealed skewed price distributions and a few extreme outliers.
-
+---
